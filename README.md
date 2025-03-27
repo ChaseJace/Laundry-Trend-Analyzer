@@ -1,8 +1,8 @@
 # Laundry-Trend-Analyzer
 
-Laundry Transaction Forecasting and Clustering
+<h1>Laundry Transaction Forecasting and Clustering</h1>
 
-Overview
+<b>Overview</b>
 
 This project utilizes time series forecasting and machine learning techniques to analyze laundry transaction data. It implements:
 
@@ -14,15 +14,22 @@ K-Means Clustering for pattern identification in transactions
 
 ***
 
-Features
+<b>Features</b>
 
-✅ Time Series Forecasting: Predict future laundry transactions using Prophet✅ Machine Learning Regression: Estimate future transaction counts using Random Forest✅ Clustering Analysis: Identify transaction patterns using K-Means clustering✅ Data Visualization: Generate trend and cluster visualizations
+✅ Time Series Forecasting: Predict future laundry transactions using Prophet
+✅ Machine Learning Regression: Estimate future transaction counts using Random Forest
+✅ Clustering Analysis: Identify transaction patterns using K-Means clustering
+✅ Data Visualization: Generate trend and cluster visualizations
+
+***
 
 Dependencies
 
 Ensure you have the following Python libraries installed:
-
+```
 pip install pandas numpy matplotlib prophet scikit-learn openpyxl
+```
+***
 
 Dataset
 
