@@ -51,7 +51,7 @@ Date: Automatically generated from Year, Month, and Day
 
 Clone this repository:
 
-git clone https://github.com/yourusername/your-repo.git
+https://github.com/ChaseJace/Laundry-Trend-Analyzer.git
 cd your-repo
 
 Install dependencies:
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 Run the script:
 ```
-python forecasting.py
+python TrendAnalyzer.py
 ```
 
 ***
