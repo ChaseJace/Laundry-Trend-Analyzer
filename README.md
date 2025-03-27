@@ -1,8 +1,8 @@
 # Laundry-Trend-Analyzer
 
-<h1>Laundry Transaction Forecasting and Clustering</h1>
+<h2>Laundry Transaction Forecasting and Clustering</h2>
 
-<b>Overview</b>
+<h3>Overview</h3>
 
 This project utilizes time series forecasting and machine learning techniques to analyze laundry transaction data. It implements:
 
@@ -14,7 +14,7 @@ K-Means Clustering for pattern identification in transactions
 
 ***
 
-<b>Features</b>
+<h3>Features</h3>
 
 ✅ Time Series Forecasting: Predict future laundry transactions using Prophet
 ✅ Machine Learning Regression: Estimate future transaction counts using Random Forest
