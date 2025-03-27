@@ -96,20 +96,12 @@ Cluster Visualization: K-Means clustering of transaction patterns
 
 Prediction Table: Future transaction estimates using Random Forest
 
-Example Output
+***
 
-Prophet Forecast Plot:
-
-
-
-K-Means Clustering Visualization:
-
-
-
-License
+<h3>License</h3>
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Author
+<h3>Author</h3>
 
-Created by Your Name. Feel free to contribute or reach out for questions!
+Created by ChaseJace. Feel free to contribute or reach out for questions!
