@@ -16,14 +16,14 @@ K-Means Clustering for pattern identification in transactions
 
 <h3>Features</h3>
 
-✅ Time Series Forecasting: Predict future laundry transactions using Prophet<lb>
+✅ Time Series Forecasting: Predict future laundry transactions using Prophet
 ✅ Machine Learning Regression: Estimate future transaction counts using Random Forest
 ✅ Clustering Analysis: Identify transaction patterns using K-Means clustering
 ✅ Data Visualization: Generate trend and cluster visualizations
 
 ***
 
-Dependencies
+<h3>Dependencies</h3>
 
 Ensure you have the following Python libraries installed:
 ```
@@ -31,7 +31,7 @@ pip install pandas numpy matplotlib prophet scikit-learn openpyxl
 ```
 ***
 
-Dataset
+<h3>Dataset</h3>
 
 The input data is expected to be an Excel file (laundrybook.xlsx) containing laundry transaction records.
 
@@ -45,7 +45,9 @@ Day: Transaction day
 
 Date: Automatically generated from Year, Month, and Day
 
-Installation
+***
+
+<h3>Installation</h3>
 
 Clone this repository:
 
@@ -53,40 +55,40 @@ git clone https://github.com/yourusername/your-repo.git
 cd your-repo
 
 Install dependencies:
-
+```
 pip install -r requirements.txt
+```
 
 Run the script:
-
+```
 python forecasting.py
+```
 
-Usage
+***
+
+<h3>Usage</h3>
 
 1️⃣ Prophet Forecasting
 
-Splits data into training (past transactions) and testing (recent 30 days)
-
-Predicts future laundry transactions
-
-Computes Mean Absolute Error (MAE) for accuracy
-
-Generates a forecast plot
+- Splits data into training (past transactions) and testing (recent 30 days)
+- Predicts future laundry transactions
+- Computes Mean Absolute Error (MAE) for accuracy
+- Generates a forecast plot
 
 2️⃣ Random Forest Regression
 
-Trains a Random Forest model to predict transaction counts
-
-Evaluates model performance using MAE
-
-Generates predictions for the next 30 days
+- Trains a Random Forest model to predict transaction counts
+- Evaluates model performance using MAE
+- Generates predictions for the next 30 days
 
 3️⃣ K-Means Clustering
 
-Groups transaction data into 4 clusters based on transaction volume
+- Groups transaction data into 4 clusters based on transaction volume
+- Visualizes clusters in a scatter plot
 
-Visualizes clusters in a scatter plot
+***
 
-Outputs
+<h3>Outputs</h3>
 
 Forecast Plot: Prophet-predicted transaction trends
 
