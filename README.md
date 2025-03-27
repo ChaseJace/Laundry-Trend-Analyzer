@@ -16,7 +16,7 @@ K-Means Clustering for pattern identification in transactions
 
 <h3>Features</h3>
 
-✅ Time Series Forecasting: Predict future laundry transactions using Prophet
+✅ Time Series Forecasting: Predict future laundry transactions using Prophet<lb>
 ✅ Machine Learning Regression: Estimate future transaction counts using Random Forest
 ✅ Clustering Analysis: Identify transaction patterns using K-Means clustering
 ✅ Data Visualization: Generate trend and cluster visualizations
