@@ -1,0 +1,1 @@
+# Laundry-Trend-Analyzer
